@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🛠 &ensp; [Coral ML Accelerators](https://coral.ai/products/) | [Vision Kit](https://aiyprojects.withgoogle.com/vision) | [Voice Kit](https://aiyprojects.withgoogle.com/voice) | [Google Clips](https://en.wikipedia.org/wiki/Google_Clips) | [VR Cameras](https://en.wikipedia.org/wiki/Google_Cardboard) | [VP9 Codec](https://en.wikipedia.org/wiki/VP9)
+
+📷 &ensp; [500px](https://500px.com/dmitriykovalev) | [Instagram](https://www.instagram.com/dmitriy.s.kovalev/)
+
 <!--
 **dmitriykovalev/dmitriykovalev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
