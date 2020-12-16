@@ -9,7 +9,7 @@
 
 :camera: &ensp; [500px](https://500px.com/dmitriykovalev) | [Instagram](https://www.instagram.com/dmitriy.s.kovalev/)
 
-:clipboard: &ensp; [Résumé](https://github.com/dmitriykovalev/resume/blob/master/README.md)
+:clipboard: &ensp; [CV](https://github.com/dmitriykovalev/cv/blob/master/README.md)
 
 <!--
 **dmitriykovalev/dmitriykovalev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
